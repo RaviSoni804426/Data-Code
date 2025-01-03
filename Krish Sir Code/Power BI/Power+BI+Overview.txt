@@ -1,0 +1,15 @@
+1) What is Power BI & why do we use it?
+
+2) Power BI Components:
+   a) Power BI Desktop
+   b) Power BI Service
+   c) Power BI Mobile Applications
+
+3) General Workflow:
+   a) Data Gathering
+   b) Data Preparation
+   c) Data Modeling
+   d) Reporting
+   e) Publishing the Report to Power BI Service
+   f) Creating Dashboard
+   g) Sharing the reports & Dashboards
