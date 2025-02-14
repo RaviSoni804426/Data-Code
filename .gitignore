@@ -1,0 +1,10 @@
+"venv/" 
+.bash_history
+.gitconfig
+.lesshst
+.node_repl_history
+.swp
+.viminfo
+keyring
+ChatGPT.log
+
