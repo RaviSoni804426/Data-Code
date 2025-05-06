@@ -6,7 +6,8 @@ custom_rules = [
     "*.pyc",
     "*.pyd",
     "*.egg",
-    "Revision/"
+    "Revision/",
+    "envs/"  # Ignore Conda environments stored in a folder like ./envs/
 ]
 
 default_rules = [
