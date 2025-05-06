@@ -1,11 +1,29 @@
-venv/  
 
+# --- Updated ignore rules ---
+venv/
 __pycache__/
-
 *.pyc
-
 *.pyd
-
 *.egg
-
 Revision/
+# Byte-compiled / optimized / DLL files
+*$py.class
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+# Environment files
+.env
+.venv/
+env/
+.envrc
+# Jupyter
+.ipynb_checkpoints/
+# Logs
+*.log
+# OS
+.DS_Store
+Thumbs.db
+# VS Code
+.vscode/
