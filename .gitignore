@@ -38,3 +38,5 @@ Thumbs.db
 # --- Updated ignore rules ---
 envs/
 openai
+Revision/ml handwritten notes.pdf
+data/large_dataset.csv
